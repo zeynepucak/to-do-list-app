@@ -40,7 +40,7 @@
     "dompurify": "^2.0.7",
     "fruitsconfits": "0.1.0",
     "js-yaml": "^3.13.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "pouchdb-browser": "^7.1.1",
     "pouchdb-find": "^7.1.1",
     "react": "^16.12.0",
